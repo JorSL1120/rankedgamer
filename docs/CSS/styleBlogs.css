@@ -1,0 +1,15 @@
+/* Seccion de IA */
+.blog-container {
+  display: none;
+}
+.blog-container.visible {
+  display: flex;
+}
+
+/* Seccion de GAMERS */
+.blog-container2 {
+  display: none;
+}
+.blog-container2.visible {
+  display: flex;
+}
