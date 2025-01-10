@@ -1,4 +1,4 @@
-/* Seccion de IA */
+/* Seccion de Controles */
 .blog-container {
   display: none;
 }
@@ -6,10 +6,74 @@
   display: flex;
 }
 
-/* Seccion de GAMERS */
+/* Seccion de teclados */
 .blog-container2 {
   display: none;
 }
 .blog-container2.visible {
+  display: flex;
+}
+
+/* Seccion de streaming */
+.blog-container3 {
+  display: none;
+}
+.blog-container3.visible {
+  display: flex;
+}
+
+/* Seccion de monitores */
+.blog-container4 {
+  display: none;
+}
+.blog-container4.visible {
+  display: flex;
+}
+
+/* Seccion de mouse */
+.blog-container5 {
+  display: none;
+}
+.blog-container5.visible {
+  display: flex;
+}
+
+/* Seccion de sillas */
+.blog-container6 {
+  display: none;
+}
+.blog-container6.visible {
+  display: flex;
+}
+
+/* Seccion de audifonos */
+.blog-container7 {
+  display: none;
+}
+.blog-container7.visible {
+  display: flex;
+}
+
+/* Seccion de accesorios */
+.blog-container8 {
+  display: none;
+}
+.blog-container8.visible {
+  display: flex;
+}
+
+/* Seccion de consolas */
+.blog-container9 {
+  display: none;
+}
+.blog-container9.visible {
+  display: flex;
+}
+
+/* Seccion de videojuegos */
+.blog-container10 {
+  display: none;
+}
+.blog-container10.visible {
   display: flex;
 }
